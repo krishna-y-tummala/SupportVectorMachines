@@ -7,6 +7,6 @@ Please paste a copy of the images in your documents or where you wish to and spe
 
 To save the plots, create a new folder and use the os module to change the working directory. Lines 9-11
 
-Libraries Required: NumPy, Pandas, Seaborn and Matplotlib, PIL
+Libraries Required: NumPy, Pandas, Seaborn and Matplotlib, PIL, os
 
 I have used a Random State for my Train Test split, your results will be the same as mine. If you wish to obtain different results, specify the new random state in line 54.
